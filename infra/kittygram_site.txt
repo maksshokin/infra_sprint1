@@ -1,0 +1,5 @@
+IP: 84.201.177.162;
+name_taski: https://zaptome.zapto.org/;
+name_kittygram: https://zaptome2.zapto.org/;
+login: 123;
+password: 123;
